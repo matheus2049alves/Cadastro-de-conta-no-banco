@@ -38,8 +38,6 @@ public class Program {
         banco.withdraw(retire);
         System.out.println(banco);
 
-        System.out.println("Luffy dick your mon");
-        System.out.println("Init the branch");
-        System.out.println("Teste giy hub");
+
     }
 }

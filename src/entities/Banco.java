@@ -3,7 +3,7 @@ package entities;
 public class Banco {
     private String name;
     private  int number;
-    private double balance;
+    protected double balance;
 
     public Banco(String name, int number, double initialValue){
         this.name = name;
